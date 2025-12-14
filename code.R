@@ -1,0 +1,9 @@
+The analysis of our results demonstrates that data mining techniques, particularly supervised machine learning algorithms, can be effectively applied to assess the risk level in maternal health cases. Among the models evaluated, the Random Forest delivered the highest predictive accuracy, indicating its capability to learn patterns from health-related variables.
+
+Our findings suggest that features such as blood pressure (both systolic and diastolic), age, and heart rate have a substantial impact on determining the maternal risk category. These observations are consistent with established medical insights, where hypertensive disorders are considered key risk factors during pregnancy.
+
+This study reinforces the potential use of such predictive systems in clinical environments or as part of mobile healthcare tools, particularly in areas with limited access to specialists. By providing early warnings, these models can support timely medical decisions and potentially prevent complications.
+
+However, certain limitations were observed. The dataset used did not include behavioral, environmental, or socioeconomic factors, which may influence the accuracy of risk prediction. Additionally, the sample size was moderate, and further testing on larger and more diverse datasets is needed to validate the model's robustness.
+
+Compared to other existing studies, our approach offers a comparative view of multiple models and their effectiveness, contributing a broader perspective on how machine learning can be applied to maternal health care. In the future, integrating more comprehensive health records and testing with real-world data from hospitals or health programs would enhance the model’s performance and usability.
